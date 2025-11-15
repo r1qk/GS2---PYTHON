@@ -71,6 +71,9 @@ Caso o usuário digite 3, o programa se encerra.
 Digite o número da ação desejada: 3
 Saindo... Até mais!
 ```
+### Link do vídeo do sistema funcionando
+
+[https://www.youtube.com/watch?v=bEblULb9vJk](https://www.youtube.com/watch?v=bEblULb9vJk)
 
 
 
