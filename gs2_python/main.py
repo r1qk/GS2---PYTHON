@@ -39,7 +39,7 @@ def cadastrar():
                 print("As notas devem ser entre 0 e 10!\n")
             else:
                 break
-
+    #selecionando os dois melhores para a análise
     ordem = sorted(lista.items(), key=lambda x: x[1], reverse=True)
     top1, top2 = ordem[0][0], ordem[1][0]
     profissao = career(top1, top2).advice()
